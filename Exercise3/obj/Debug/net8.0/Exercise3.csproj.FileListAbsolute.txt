@@ -1,0 +1,15 @@
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\bin\Debug\net8.0\Exercise3.exe
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\bin\Debug\net8.0\Exercise3.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.sourcelink.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll
