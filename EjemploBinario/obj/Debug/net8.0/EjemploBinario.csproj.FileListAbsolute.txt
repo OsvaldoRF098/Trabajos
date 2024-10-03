@@ -1,0 +1,15 @@
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\bin\Debug\net8.0\EjemploBinario.exe
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\bin\Debug\net8.0\EjemploBinario.deps.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\bin\Debug\net8.0\EjemploBinario.runtimeconfig.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\bin\Debug\net8.0\EjemploBinario.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\bin\Debug\net8.0\EjemploBinario.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.AssemblyInfoInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.AssemblyInfo.cs
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.csproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.sourcelink.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\refint\EjemploBinario.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\EjemploBinario.genruntimeconfig.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjemploBinario\obj\Debug\net8.0\ref\EjemploBinario.dll
