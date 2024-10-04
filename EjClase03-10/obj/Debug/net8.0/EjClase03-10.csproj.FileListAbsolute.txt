@@ -1,0 +1,15 @@
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\bin\Debug\net8.0\EjClase03-10.exe
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\bin\Debug\net8.0\EjClase03-10.deps.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\bin\Debug\net8.0\EjClase03-10.runtimeconfig.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\bin\Debug\net8.0\EjClase03-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\bin\Debug\net8.0\EjClase03-10.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.AssemblyInfoInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.AssemblyInfo.cs
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.csproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.sourcelink.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\refint\EjClase03-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\EjClase03-10.genruntimeconfig.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\EjClase03-10\obj\Debug\net8.0\ref\EjClase03-10.dll
