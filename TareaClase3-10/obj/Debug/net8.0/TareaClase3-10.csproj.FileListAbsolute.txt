@@ -1,0 +1,15 @@
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\bin\Debug\net8.0\TareaClase3-10.exe
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\bin\Debug\net8.0\TareaClase3-10.deps.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\bin\Debug\net8.0\TareaClase3-10.runtimeconfig.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\bin\Debug\net8.0\TareaClase3-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\bin\Debug\net8.0\TareaClase3-10.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.AssemblyInfoInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.AssemblyInfo.cs
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.csproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.sourcelink.json
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\refint\TareaClase3-10.dll
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.pdb
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\TareaClase3-10.genruntimeconfig.cache
+C:\Users\osval\OneDrive\Documentos\TallerC\Trabajos\TareaClase3-10\obj\Debug\net8.0\ref\TareaClase3-10.dll
